@@ -75,7 +75,6 @@ public class Book {
                 "id=" + id +
                 ", title='" + title + '\'' +
                 ", isbn='" + isbn + '\'' +
-                ", autors=" + authors +
                 '}';
     }
 
